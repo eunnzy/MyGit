@@ -5,6 +5,9 @@ public class A {
 		System.out.println("Hello This is A class");
 		System.out.println("After branching");
 		System.out.println("Add line");
+		
+		B bTest = new B();
+		bTest.devB();
 	}
 
 }
