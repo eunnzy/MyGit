@@ -8,6 +8,9 @@ public class A {
 		
 		B bTest = new B();
 		bTest.devB();
+		
+		C cTest = new C();
+		cTest.devC();
 	}
 
 }
